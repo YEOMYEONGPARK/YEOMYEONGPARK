@@ -34,7 +34,7 @@
       <tr>
         <th class="tg-c3ow">기간</th>
         <th class="tg-c3ow">내용</th>
-        <th class="tg-c3ow">GitHub 레포</th>
+        <th class="tg-c3ow">GitHub Repo</th>
       </tr>
     </thead>
     <tbody>
