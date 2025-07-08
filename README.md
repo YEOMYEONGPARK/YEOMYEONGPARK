@@ -39,9 +39,9 @@
     </thead>
     <tbody>
       <tr>
-        <td class="tg-c3ow">YYYY.MM ~ YYYY.MM</td>
-        <td class="tg-c3ow">프로젝트 설명</td>
-        <td class="tg-c3ow"><a href="https://github.com/사용자명/레포명">바로가기</a></td>
+        <td class="tg-c3ow">2025.07~2025.07</td>
+        <td class="tg-c3ow">Oracle스터디</td>
+        <td class="tg-c3ow"><a href="[https://github.com](https://github.com/YEOMYEONGPARK/Mysql_OracleStudy.git)/사용자명/레포명">바로가기</a></td>
       </tr>
       <tr>
         <td class="tg-c3ow"></td>
