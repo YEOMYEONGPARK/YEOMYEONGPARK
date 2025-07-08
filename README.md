@@ -51,7 +51,7 @@
       <tr>
         <td style="padding: 8px; text-align: center;">2025.07~2025.07</td>
         <td style="padding: 8px;">Oracle 스터디</td>
-        <td style="padding: 8px;"><a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank">바로가기</a></td>
+        <td style="padding: 8px;"><a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank"> Repo</a></td>
       </tr>
       <tr>
         <td style="padding: 8px;"></td>
