@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=72A0C1&height=180&text=PARK%20YEOMYEONG&animation=&fontColor=e4d2d2&fontSize=70" />
 </div>
