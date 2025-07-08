@@ -9,9 +9,12 @@
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javascript&logoColor=222">
   </div>
 </div>
+
 
 <br/>
 
