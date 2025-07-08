@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=14&descAlignY=50)
+![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Yeomyeoung%20Park&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=14&descAlignY=50)
 
 <h3>박 여 명</h3>
 
