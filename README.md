@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text= Yeomyeoung%20Park&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=72A0C1&height=180&text=PARK%20YEOMYEONG&animation=&fontColor=e4d2d2&fontSize=70" />
+</div>
 
-<h3>박 여 명</h3>
 
 <br>
 <br>
