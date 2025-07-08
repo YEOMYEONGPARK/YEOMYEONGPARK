@@ -13,17 +13,32 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=222)
 
 
-<!--
-**YEOMYEONGPARK/YEOMYEONGPARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow">기간</th>
+    <th class="tg-c3ow">내용</th>
+    <th class="tg-c3ow">GitHub 레포</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">YYYY.MM ~ YYYY.MM</td>
+    <td class="tg-c3ow">프로젝트 설명</td>
+    <td class="tg-c3ow"><a href="https://github.com/사용자명/레포명">바로가기</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+</tbody>
+</table>
