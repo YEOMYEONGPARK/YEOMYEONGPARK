@@ -74,7 +74,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinji2102&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyeoung&layout=compact&theme=default" />
 </div>
 
 
