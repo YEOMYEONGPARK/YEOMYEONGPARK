@@ -39,41 +39,39 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📁 Projects </h2>
-  <table class="tg">
+  <table>
     <thead>
       <tr>
-        <th class="tg-c3ow">기간</th>
-        <th class="tg-c3ow">내용</th>
-        <th class="tg-c3ow">GitHub Repo</th>
+        <th style="padding: 8px; border-bottom: 1px solid #ddd;">기간</th>
+        <th style="padding: 8px; border-bottom: 1px solid #ddd;">내용</th>
+        <th style="padding: 8px; border-bottom: 1px solid #ddd;">GitHub Repo</th>
       </tr>
     </thead>
     <tbody>
-<tr>
-  <td class="tg-c3ow">2025.07~2025.07</td>
-  <td class="tg-c3ow">Oracle 스터디</td>
-  <td class="tg-c3ow">
-    <a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank">바로가기</a>
-  </td>
-</tr>
-
       <tr>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
+        <td style="padding: 8px; text-align: center;">2025.07~2025.07</td>
+        <td style="padding: 8px;">Oracle 스터디</td>
+        <td style="padding: 8px;"><a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank">바로가기</a></td>
       </tr>
       <tr>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
+        <td style="padding: 8px;"></td>
+        <td style="padding: 8px;"></td>
+        <td style="padding: 8px;"></td>
       </tr>
       <tr>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
+        <td style="padding: 8px;"></td>
+        <td style="padding: 8px;"></td>
+        <td style="padding: 8px;"></td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;"></td>
+        <td style="padding: 8px;"></td>
+        <td style="padding: 8px;"></td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 
 <div align="center">
