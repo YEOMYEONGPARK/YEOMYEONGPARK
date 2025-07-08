@@ -73,8 +73,8 @@
 </div>
 
 
-
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','MySQL','Python','Oracle','JavaScript'],datasets:[{data:[30,25,20,15,10]}]}}" alt="Most Used Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinji2102&layout=compact&theme=default" />
 </div>
+
 
