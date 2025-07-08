@@ -24,11 +24,9 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
     <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white">
@@ -50,11 +48,14 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="tg-c3ow">2025.07~2025.07</td>
-        <td class="tg-c3ow">Oracle스터디</td>
-        <td class="tg-c3ow"><a href="[https://github.com](https://github.com/YEOMYEONGPARK/Mysql_OracleStudy.git)/사용자명/레포명">바로가기</a></td>
-      </tr>
+<tr>
+  <td class="tg-c3ow">2025.07~2025.07</td>
+  <td class="tg-c3ow">Oracle 스터디</td>
+  <td class="tg-c3ow">
+    <a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank">바로가기</a>
+  </td>
+</tr>
+
       <tr>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
