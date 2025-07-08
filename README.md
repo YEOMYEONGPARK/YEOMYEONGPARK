@@ -75,5 +75,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyeoung&layout=compact&theme=default" />
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','MySQL','Python','Oracle','JavaScript'],datasets:[{data:[30,25,20,15,10]}]}}" alt="Most Used Languages Pie Chart" />
 </div>
+
