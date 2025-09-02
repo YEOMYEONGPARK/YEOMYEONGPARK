@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=72A0C1&height=180&text=%20yeomyeoung&animation=&fontColor=e4d2d2&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=72A0C1&height=180&text=%20yeomyeoung&animation=&fontColor=e4d2d2&fontSize=50" />
 </div>
 
 <br><br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yeomyeoung}?pet-id=1" width="1000" height="200"/>
+</a>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔍 Skills </h2> 
@@ -36,9 +40,7 @@
 
 <br/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{yeomyeoung}?pet-id=1" width="1000" height="200"/>
-</a>
+
 
 
 
