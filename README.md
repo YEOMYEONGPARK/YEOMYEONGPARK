@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{yeomyeoung}?pet-id=1" width="3000" height="400"/>
+  <img src="https://render.gitanimals.org/lines/{yeomyeoung}?pet-id=1" width="3000" height="700"/>
 </a>
 
 <div align="center">
