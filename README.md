@@ -36,40 +36,9 @@
 
 <br/>
 
-<div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📁 Projects </h2>
-  <table>
-    <thead>
-      <tr>
-        <th style="padding: 8px; border-bottom: 1px solid #ddd;">기간</th>
-        <th style="padding: 8px; border-bottom: 1px solid #ddd;">내용</th>
-        <th style="padding: 8px; border-bottom: 1px solid #ddd;">GitHub Repo</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 8px; text-align: center;">2025.07~2025.07</td>
-        <td style="padding: 8px;">Oracle 스터디</td>
-        <td style="padding: 8px;"><a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank"> Repo</a></td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;"></td>
-        <td style="padding: 8px;"></td>
-        <td style="padding: 8px;"></td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;"></td>
-        <td style="padding: 8px;"></td>
-        <td style="padding: 8px;"></td>
-      </tr>
-      <tr>
-        <td style="padding: 8px;"></td>
-        <td style="padding: 8px;"></td>
-        <td style="padding: 8px;"></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yeomyeoung}?pet-id=1" width="1000" height="120"/>
+</a>
 
 
 <div align="center">
