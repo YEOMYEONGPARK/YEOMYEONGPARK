@@ -1,12 +1,15 @@
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeomyeoung&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/yeomyeoung"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeomyeoung&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/yeomyeoung"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔍 Skills </h2> 
