@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=72A0C1&height=180&text=%20yeomyeoung&animation=&fontColor=e4d2d2&fontSize=50" />
-</div>
-
-<br><br>
+<br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeomyeoung&utm_content=farm">
 <img
