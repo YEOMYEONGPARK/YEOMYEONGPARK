@@ -1,6 +1,23 @@
 # PARK YEOMYEONG
 
-[![solved.ac tier](https://mazassumnida.wtf/api/mini/generate_badge?boj=duehf123)](https://solved.ac/profile/duehf123)
+인프라·DB·고가용성(HA)·자동화에 **관심을 가지고 학습**하고 있습니다.  
+*Focus: 인프라 · DB · 고가용성 · 자동화*
+
+---
+
+<!-- Solved.ac (좌) | 사용 언어 퍼센트 (우) -->
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://solved.ac/profile/duehf123">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=duehf123" alt="Solved.ac Profile" height="170" />
+      </a>
+    </td>
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyeoung&layout=compact&langs_count=6&hide=html,css&theme=transparent&hide_border=true" alt="Top Languages" height="170" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,23 +49,3 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </div>
-
-## IDEs · Terminals
-<div align="left">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" />
-  <img alt="MobaXterm" src="https://img.shields.io/badge/MobaXterm-0078D7?style=flat&logo=windowsterminal&logoColor=white" />
-</div>
-
----
-
-## Languages (usage %)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyeoung&layout=compact&langs_count=6&hide=html,css&theme=transparent&hide_border=true)
-
----
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/yeomyeoung"/>
-</a>
