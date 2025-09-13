@@ -46,3 +46,9 @@
 
 ## Languages (usage %)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyeoung&layout=compact&langs_count=6&hide=html,css&theme=transparent&hide_border=true)
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yeomyeoung"/>
+</a>
