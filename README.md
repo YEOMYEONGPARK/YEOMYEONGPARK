@@ -1,11 +1,6 @@
 # PARK YEOMYEONG
 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=<boj_id>)](https://solved.ac/<boj_id>) <!-- TODO: <boj_id>를 본인 solved.ac ID로 변경 -->
-
----
-
-## Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeomyeoung&theme=github-compact&hide_border=true&line=1e3a8a&point=2563eb&area=true&area_color=93c5fd&custom_title=Recent%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![solved.ac tier](https://mazassumnida.wtf/api/mini/generate_badge?boj=duehf123)](https://solved.ac/profile/duehf123)
 
 ---
 
