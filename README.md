@@ -55,6 +55,9 @@
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </div>
 
+---
+
+<br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yeomyeoung"/>
 </a>
